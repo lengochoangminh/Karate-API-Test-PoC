@@ -14,5 +14,6 @@
 
 - Hands-on for GET & POST methods. Do the assertions (match & fuzzy match) to verify the response status code, response field values, and Schema Validation.
 - Environment handler + Data generation
-- Visualize the test results in Cucumber Report
 - Run tests with Docker
+- Visualize the test results in Cucumber Report
+<img width="900" alt="Screenshot 2024-06-16 at 11 04 14" src="https://github.com/lengochoangminh/Karate-API-Test-PoC/assets/29770042/132dce5c-75f4-4f45-b1d7-6a12fd40fcac">
